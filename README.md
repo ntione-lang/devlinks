@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="/github/devlinks.png" width="100%">
+  <img alt="projeto DevLinks" src="/github/DevLinks.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
