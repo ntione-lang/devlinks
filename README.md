@@ -28,4 +28,4 @@ O DevLinks é um agregador de links para usar como portfolio online.
 
 ## 🔖 Layout
 
-Feito com ♥ by MarcioCoutinho
+Feito com ♥ by Ione Porto
